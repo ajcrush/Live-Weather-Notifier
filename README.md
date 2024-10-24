@@ -19,3 +19,12 @@ Install the dependencies using the following command:
 
 ```bash
 pip install requests beautifulsoup4 win10toast
+
+## 🚀 How to Run
+1.	Clone the repository or download the script.
+2.	Install the dependencies using the command mentioned above.
+3.	Run the Python script:
+```bash
+python weather_notifier.py
+
+You will receive a Windows desktop notification with the current temperature and rain chances for Patna, Bihar.
